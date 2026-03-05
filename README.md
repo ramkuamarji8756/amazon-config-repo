@@ -1,1 +1,1 @@
-# amazon-config-server
+# amazon-config-repo
