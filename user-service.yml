@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/amazon_product1
+    url: jdbc:mysql://localhost:3306/amazon_product_db1
     username: root
     password: cscorner
 
